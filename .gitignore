@@ -1,0 +1,25 @@
+# Development files (Claude/AI assisted)
+bugs/
+features/
+claude.md
+all_species_plan.md
+Dashboard/features/
+
+# Data processing scripts (one-time use)
+Data/add_*.R
+Data/fix_*.R
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# R
+.Rhistory
+.Rdata
+.RData
+.Ruserdata
+.Rproj.user/
+
+# IDE
+.vscode/
+.idea/
